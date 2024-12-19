@@ -1,0 +1,24 @@
+:root {
+  --primary-color: #F0B90B;
+  --background-color: #1A1A1A;
+  --text-color: #FFFFFF;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p, a {
+  color: white;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+
+  background-color: var(--background-color);
+}
