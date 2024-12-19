@@ -1,0 +1,1 @@
+import"../chunks/disclose-version.Bg9kRutz.js";import"../chunks/legacy.CtaTdtmd.js";import{a,t as p}from"../chunks/template.CWdr5b2X.js";var e=p("<h1>Level</h1>");function i(o){var t=e();a(o,t)}export{i as component};

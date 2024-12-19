@@ -1,0 +1,1 @@
+import"../chunks/disclose-version.Bg9kRutz.js";import"../chunks/legacy.CtaTdtmd.js";const o=({params:e})=>e,r=Object.freeze(Object.defineProperty({__proto__:null,load:o},Symbol.toStringTag,{value:"Module"}));function a(e){}export{a as component,r as universal};
